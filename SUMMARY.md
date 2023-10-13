@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Alpha Square Trading Bot](README.md)
