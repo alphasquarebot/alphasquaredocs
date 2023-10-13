@@ -3,7 +3,7 @@ description: >-
   Meet Alpha Square, the game-changing bot designed to revolutionize how you
   trade cryptocurrencies within your community.
 cover: .gitbook/assets/download (3).png
-coverY: 302.2280285035628
+coverY: 244.40858405911837
 layout:
   cover:
     visible: true
