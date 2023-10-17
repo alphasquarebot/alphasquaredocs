@@ -2,12 +2,7 @@
 description: >-
   Meet Alpha Square, the game-changing bot designed to revolutionize how you
   trade cryptocurrencies within your community.
-cover: .gitbook/assets/download (3).png
-coverY: 244.40858405911837
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -20,20 +15,21 @@ layout:
     visible: true
 ---
 
-# Alpha Square Trading Bot
+# 👋 Welcome to Alpha Square Trading Bot
+
+<figure><img src=".gitbook/assets/download (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### What is Alpha Square?
 
-Alpha Square is a Discord bot that allows seamless cryptocurrency trading within your community. With features like instant buying, selling, and a host of other utilities, Alpha Square makes crypto trading as easy as sending a message.
+Alpha Square is a Discord bot that allows seamless cryptocurrency trading within your Discord community. With features like instant buying, limit order, and a host of other utilities, Alpha Square Bot makes crypto trading as easy as sending a message.
 
 
 
 ### Why Alpha Square?
 
 1. No Sign-Up, Instant Trading: You don't need to go through tedious registration processes.
-2. Security: Your assets are safe, thanks to our cutting-edge encryption methods.
-3. Low Fees: With just a 1% transaction fee, we offer one of the most competitive rates in the market.
-4. Multiple Revenue Streams: Benefit from our NFT sales and community token commissions.
+2. Security: Your assets are safe, thanks to our cutting-edge encryption methods and multisig wallet (soon).
+3. Revenue-Share Streams: Shareholder will benefit from the bot's transaction fee and community token commissions.
 
 
 
@@ -44,10 +40,3 @@ Alpha Square is a Discord bot that allows seamless cryptocurrency trading within
 * Trading with 1-click during high volatility.
 * Use Alpha Square exclusively on Discord. It’s designed to integrate perfectly with your server, making it a native part of your community.
 
-
-
-### How to Use Alpha Square?
-
-1. Add Bot to Discord: Simply invite Alpha Square to your Discord server.
-2. Initiate Trade: Use simple commands to buy or sell your token.
-3. Confirm Transaction: Verify your trade with your password. (optional)
