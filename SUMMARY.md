@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Why Alpha Square Bot? 🚀](README.md)
+* [Dive into the Tokenomics 🪙](dive-into-the-tokenomics.md)
 
 ## Overview
 
