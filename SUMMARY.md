@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Alpha Square Trading Bot](README.md)
+* [Why Alpha Square Bot? 🚀](README.md)
 
 ## Overview
 
