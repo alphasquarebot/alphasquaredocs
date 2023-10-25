@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/1243123 (1).webp
-coverY: -168
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -19,7 +14,7 @@ layout:
 
 # Why Alpha Square Bot? 🚀
 
-Ever felt the crypto world's got too much hype but not enough user-friendliness? Years into this decentralized dance, and we're still dealing with gnarly mnemonic phrases and the full weight of safeguarding our assets (🙄) or, worse yet, jumping through endless hoops with centralized exchanges and those oh-so-loved KYC processes.
+We created Alpha Square Bot out of a frustration. Years into this decentralized dance, and we're still dealing with mnemonic phrases while shouldering the hefty responsibility of asset custody (🙄) or, worse yet, bowing down to centralized exchanges with their tedious KYC rituals.
 
 Doesn't seem fair for the everyday Joe and Jane, does it?
 
@@ -31,10 +26,10 @@ Enter **Alpha Square Bot**. Born out of frustration and a dash of genius, we've 
 
 
 
-## **Alpha Square Advantage** 🌟
+## **Alpha Square Advantages** 🌟
 
 * **Slide In & Trade**: No sign-ups. No fuss. Dive into trading without the baggage of tedious registration.
-* **Fort Knox Security**: Sleep easy, knowing your assets are locked down tight with our bleeding-edge encryption and soon-to-arrive multisig wallets.
+* **Fortress-Level Security**: Sleep easy, knowing your assets are locked down tight with our bleeding-edge encryption and soon-to-arrive multisig AA wallets.
 * **Cha-Ching Streams**: Shareholders, listen up! Get a slice of the pie with bot transaction fees and community invitation kickbacks.
 
 <figure><img src=".gitbook/assets/Unknow2.webp" alt="" width="188"><figcaption></figcaption></figure>
@@ -45,14 +40,14 @@ Enter **Alpha Square Bot**. Born out of frustration and a dash of genius, we've 
 {% tab title="For the Crypto Enthusiasts" %}
 * Looking for that smooth trading experience? We got you.
 * Got a hot tip (or _alpha_) from your crypto buddy? Dive in and buy on the spot with few clicks.
-* Fancy some passive gains (probably nothing, but...)? Rally folks and communities to our side and watch the rewards roll in.
-* Grow with the 𝜶² fam. As Alpha Square Bot scales up, so does your potential to prosper!
+* Fancy some passive gains (probably nothing, but...) Rally folks and communities to our side and watch the rewards roll in.
+* Grow with the 𝜶² community and earn as Alpha Square Bot becomes big!
 {% endtab %}
 
 {% tab title="For Discord Server Owners" %}
 * Hosting a community shindig? Facilitate instant trades and get that crypto party started.
-* Launching a new feature or collab? Make buying tokens a breeze.
-* Onboard newbies with Alpha Square Bot and let them in on the shareholder action. More shareholders = More community clout! 💪
+* Launching a new feature or collab? Make buying tokens a breeze for your members.
+* Onboard newbies and make them shareholders right away with Alpha Square Bot. More coin holders = More community clout! 💪
 * Cash in on trade fees and watch your community's wallet grow!
 {% endtab %}
 {% endtabs %}
