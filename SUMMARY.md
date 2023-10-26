@@ -9,12 +9,14 @@
 * [💳 Get Started](guide/get-started.md)
 * [🔁 Swap](guide/swap.md)
 * [📤 Send](guide/send.md)
-* [🧀 Positions](guide/positions.md)
+* [🗒 Orders](guide/orders.md)
+* [📊 Positions](guide/positions.md)
 
 ## Earn
 
-* [💰 Wallet Overview](earn/wallet-overview.md)
-* [📎 Deposit](earn/deposit.md)
+* [💰 Staking](earn/staking.md)
+* [📎 NFT](earn/nft.md)
+* [🎣 Referral](earn/referral.md)
 
 ## FOR SERVER OWNERS
 
