@@ -40,3 +40,7 @@ Ever wondered about the magic behind the scenes? Let's unwrap the wizardry of ou
 ***
 
 Remember, our tokenomics isn't just numbers and percentages. It's our promise, our commitment, and our journey with you. Let's ride this crypto wave together! 🚀🌊
+
+
+
+Dive into our tokenomics channel and let's discuss together - your insights are valued! [🌟 Join Discord channel](https://discord.gg/PF5pqyVd3a)

@@ -6,6 +6,7 @@
 ## Guide
 
 * [💰 Wallet](guide/wallet.md)
+* [💳 Get Started](guide/get-started.md)
 * [💡 Swap](guide/swap.md)
 * [✨ Send](guide/send.md)
 * [🧀 Positions](guide/positions.md)
