@@ -3,21 +3,22 @@
 * [Why Alpha Square Bot? 🚀](README.md)
 * [Dive into the Tokenomics 🪙](dive-into-the-tokenomics.md)
 
-## Overview
+## Guide
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Features](overview/features.md)
+* [💡 Swap](guide/swap.md)
+* [✨ Send](guide/send.md)
+* [🧀 Positions](guide/positions.md)
 
-## Product Guides
+## Earn
 
-* [💰 Wallet Overview](product-guides/wallet-overview.md)
-* [📎 Deposit](product-guides/deposit.md)
+* [💰 Wallet Overview](earn/wallet-overview.md)
+* [📎 Deposit](earn/deposit.md)
 
 ## FOR SERVER OWNERS
 
-* [🛠 Set up Alpha Square](for-server-owners/set-up-alpha-square.md)
+* [🛠 Set up Alpha Square Bot](for-server-owners/set-up-alpha-square-bot.md)
 
-## Use Cases
+## Q\&A
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🎨 For Designers](q-and-a/for-designers.md)
+* [🖥 For Developers](q-and-a/for-developers.md)
