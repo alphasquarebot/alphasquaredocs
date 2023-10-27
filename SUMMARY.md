@@ -14,9 +14,9 @@
 
 ## Earn
 
-* [💰 Staking](earn/staking.md)
-* [📎 NFT](earn/nft.md)
-* [🎣 Referral](earn/referral.md)
+* [👏 Referrals](earn/referrals.md)
+* [🛡 Guardians NFT (coming soon)](earn/guardians-nft-coming-soon.md)
+* [🏦 Staking (coming soon)](earn/staking-coming-soon.md)
 
 ## FOR SERVER OWNERS
 
