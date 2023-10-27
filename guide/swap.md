@@ -21,7 +21,18 @@ Hey there, Crypto Pioneer! 🚀 Venturing into the vast universe of tokens? You'
 9. **Refresh** 🔄
    * Feeling the info's a tad stale? Hit refresh, and you get updated! 🌟
 
-So, there you have it! Dive in, make some swaps, and happy crypto adventuring! We encourage users to familiarize themselves with these features to make informed trading decisions. Ensure to always conduct your own research before proceeding with transactions. Always remember to HODL strong and happy swapping! 🥳🎉
+
+
+**Here are some additional tips for making informed trading decisions:**
+
+* Consider your investment goals and risk tolerance.
+* Research the project and team behind the token.
+* Analyze the token's technical chart and market sentiment.
+* Don't invest more than you can afford to lose.
+
+So, there you have it! Dive in, make some swaps, and happy crypto adventuring! We encourage users to familiarize themselves with these features to make informed trading decisions. Ensure to always conduct your own research before proceeding with transactions.&#x20;
+
+Happy swapping! 🥳🎉
 
 \
 \
