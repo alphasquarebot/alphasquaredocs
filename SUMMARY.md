@@ -22,7 +22,6 @@
 
 * [🛠 Set up Alpha Square Bot](for-server-owners/set-up-alpha-square-bot.md)
 
-## Q\&A
+***
 
-* [🎨 For Designers](q-and-a/for-designers.md)
-* [🖥 For Developers](q-and-a/for-developers.md)
+* [💡 Q\&A](q-and-a.md)
