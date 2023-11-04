@@ -51,3 +51,7 @@ This bot is our promise to deliver security, simplicity, and the power of commun
 
 
 At Alpha Square Bot, we believe in the strength of community. Together, we can build a truly decentralized platform that returns power to the people. Join us in creating a trading platform that is of the community, for the community. 🌱
+
+
+
+Try the bot by joining in our Discord! [https://discord.gg/MCH5KqaMRM](https://discord.gg/MCH5KqaMRM)
