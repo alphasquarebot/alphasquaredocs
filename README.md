@@ -16,9 +16,9 @@ layout:
 
 <figure><img src=".gitbook/assets/download (3).png" alt="" width="188"><figcaption></figcaption></figure>
 
-Welcome to the Alpha Square Bot family — a trading platform that belongs to everyone. Our goal is simple: to make it easier for more people to step into the world of cryptocurrency. We understand that the world of crypto can sometimes feel complex and intimidating. But Alpha Square Bot is here to change all that.
+Welcome to the Alpha Square Bot family — a Discord trading bot that belongs to everyone. Our goal is simple: to make it easier for more people to step into the world of cryptocurrency. We understand that the world of crypto can sometimes feel complex and intimidating. But Alpha Square Bot is here to change all that.
 
-This bot isn't just a leap in technology; it's our promise to deliver security, simplicity, and the power of community. With Alpha Square Bot, your assets are secure and trading is as easy as sending a message to a friend.
+This bot is our promise to deliver security, simplicity, and the power of community. With Alpha Square Bot, your assets are secure and trading is as easy as sending a message to a friend.
 
 
 
