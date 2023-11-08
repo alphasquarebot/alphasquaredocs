@@ -14,7 +14,8 @@
 
 ## Earn
 
-* [👏 Referrals](earn/referrals.md)
+* [👏 Referrals](earn/referrals/README.md)
+  * [🔗 Creating Invite Link](earn/referrals/creating-invite-link.md)
 * [🛡 Guardians NFT (coming soon)](earn/guardians-nft-coming-soon.md)
 * [🏦 Staking (coming soon)](earn/staking-coming-soon.md)
 

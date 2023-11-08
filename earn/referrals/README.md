@@ -1,18 +1,26 @@
 # 👏 Referrals
 
-Hey there, Crypto enthusiast! 🎉 Dive into the sea of rewards with our referral system. It's as easy as pie and as rewarding as mining a block! 🪙
+Greetings, Crypto Pioneer! Step into a realm of collective prosperity with our referral program. Embark on a journey as simple as a friendly handshake and as fruitful as discovering a rare gem in the blockchain! 💎
+
+
 
 ***
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-27 at 15.30.30.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-08 at 16.26.21.png" alt="" width="563"><figcaption><p>You can check your referral status in the Alpha Bot’s channel by typing /referral.</p></figcaption></figure>
 
 #### **1. Personal Invites** 🙌
 
-**Invite Link**: Got friends in the crypto world? Just click or copy this link, share the Alpha love and see the rewards flowing in. 🌊
+**Invite Link**: Got friends in the crypto world? Simply tap "Referral Link" and copy this link to spread the Alpha spirit and watch the tide of rewards roll in. 🌊&#x20;
 
-**Referral Rewards**: Hold tight! For every friend you invite, you bag **20%** of their trading fees! 🤑 And guess what? If they invite someone, you also get **10%** of those new users' fees. It's like a double bonanza! 🎊
+**Referral Rewards**: Each ally you bring aboard gifts you 20% of their trading fees! And the ripple effect? When they onboard someone, you earn 10% of those newcomers' trading fees.&#x20;
+
+
 
 ***
+
+####
 
 #### **2. Community Invites** 🌍
 
