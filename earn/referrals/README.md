@@ -41,5 +41,3 @@ Got a community that loves trading? Introduce them to the Alpha Square Bot and g
 ***
 
 Stay Alpha, stay legendary! Remember, sharing is caring... and in this case, super rewarding too! 🚀🌌
-
-_Happy Trading!_ 🥳🎉
